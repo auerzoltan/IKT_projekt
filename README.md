@@ -1,24 +1,15 @@
-# ikt_cucc
+# Ikt projekt
+- Csapattagok:
+  - Auer Zoltán (csoportvezető)
+  - Császár András
+- GitHub Pages: [Link](https://auerzoltan.github.io/IKT_projekt/)
+- Jira Board: [Link](https://auerzoltan.atlassian.net/browse/DEV)
 
-## Project setup
-```
-npm install
-```
+## Magáról a projektről
+- Modern kinézetre irányult weboldalról van szó.
+- A projekt megvalósítására `Vue` frontend keretrendszert használjuk Routerrel, __TypeScripttel__ és osztályokon alapuló komponensbázissal a rendszeresség elősegítésének érdekében.
 
-### Compiles and hot-reloads for development
+## Projektfelépítés
 ```
-npm run serve
+ide jön majd a mapparendszer
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
