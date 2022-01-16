@@ -3,12 +3,18 @@
 * {
     margin: 0;
     font-family: 'Be Vietnam Pro', sans-serif;
+    box-sizing: border-box;
 }
 
 p {
     color: rgb(61, 61, 61);
 }
 
+html, body, main {
+    min-height: 100%;
+}
+
 main {
     background-color: rgb(235, 235, 235);
+    padding: 20px 128px;
 }
