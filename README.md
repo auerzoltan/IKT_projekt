@@ -8,8 +8,3 @@
 ## Magáról a projektről
 - Modern kinézetre irányult weboldalról van szó.
 - A projekt megvalósítására `Vue` frontend keretrendszert használjuk Routerrel, __TypeScripttel__ és osztályokon alapuló komponensbázissal a rendszeresség elősegítésének érdekében.
-
-## Projektfelépítés
-```
-ide jön majd a mapparendszer
-```
