@@ -3,7 +3,7 @@
   <router-view/>
   <footer>
     <p>
-      Made by zoltan meg kernel 2022 copyright
+      Made by Zoltán & Kernel 2022 copyright
     </p>
   </footer>
 </template>
