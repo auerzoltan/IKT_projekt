@@ -1,17 +1,24 @@
 <template>
-  <div class="fooldal">
-    
-  </div>
+    <main class="fooldal">
+        <span class="title">UberKiralyShop</span>
+        <span>A legjobb magyar nem mukodokepes webshop!</span>
+    </main>
 </template>
 
 <script lang="ts">
-import { Options, Vue } from 'vue-class-component';
-import Navbar from '@/components/Navbar.vue'; // @ is an alias to /src
+import { Options, Vue } from "vue-class-component";
 
-@Options({
-  components: {
-    Navbar,
-  },
-})
-export default class Fooldal extends Vue {}
+export default class Szerszamkatalogus extends Vue {}
 </script>
+
+<style lang="scss" scoped>
+.fooldal {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+    .title {
+        font-size: 40px;
+    }
+}
+</style>
