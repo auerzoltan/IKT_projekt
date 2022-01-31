@@ -14,6 +14,7 @@
 
 <script lang="ts">
 export default {
+    
     name: 'paint-bucket',
     props: ['colorName', 'manufacturer', 'usage', 'price', 'color']
 }
