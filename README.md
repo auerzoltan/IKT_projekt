@@ -2,7 +2,7 @@
 - Csapattagok:
   - Auer Zoltán (csoportvezető)
   - Császár András
-- Web: [Link](https://satella.xyz/ikt10)
+- Web: [Link](https://satella.xyz/ikt)
 - Jira Board: [Link](https://auerzoltan.atlassian.net/browse/DEV)
 
 ## Magáról a projektről
