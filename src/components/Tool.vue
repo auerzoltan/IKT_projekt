@@ -3,8 +3,8 @@
         <img :src="this.img" alt="">
         <div class="tool:content">
             <span class="tool:title">{{ this.name }}</span>
-            <span class="tool:price"><b>Ar:</b> {{ this.price }}Ft</span>
-            <span class="tool:desc">{{ this.desc }}</span>
+            <span class="tool:price"><b>Ár:</b> {{ this.price }}Ft</span>
+            <span class="tool:desc">• {{ this.desc }}</span>
         </div>
     </div>
 </template>
@@ -43,16 +43,18 @@ div.tool {
         flex-grow: 1;
 
         span.tool\:title {
-            font-size: 4vw;
+            font-size: 3vw;
         }
 
         span.tool\:price {
+            font-size: 1.5vw;
             color: rgb(59, 59, 59);
         }
 
         span.tool\:desc {
             margin-top: 20px;
             color: gray;
+            font-size: 1.3vw;
         }
     }
 }

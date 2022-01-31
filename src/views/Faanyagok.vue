@@ -12,53 +12,53 @@
                 </div>
                 <table>
                     <tr>
-                        <th>Tulajdonsag</th>
-                        <th>Ertek</th>
+                        <th>Tulajdonság</th>
+                        <th>Érték</th>
                     </tr>
                     <tr>
-                        <td>Ronkhossz</td>
+                        <td>Rönkhossz</td>
                         <td class="ta-ce">
                             {{ overlayFaanyag.data.ronkhossz }}
                         </td>
                     </tr>
                     <tr>
-                        <td>Ronkatmero</td>
+                        <td>Rönkátmérő</td>
                         <td class="ta-ce">
                             {{ overlayFaanyag.data.ronkatmero }}
                         </td>
                     </tr>
                     <tr>
-                        <td>Suruseg</td>
+                        <td>Sűrűség</td>
                         <td class="ta-ce">
                             {{ overlayFaanyag.data.suruseg }}
                         </td>
                     </tr>
                     <tr>
-                        <td>Szugorodas sugariranyban</td>
+                        <td>Zsugorodás sugárirányban</td>
                         <td class="ta-ce">
                             {{ overlayFaanyag.data.zsug_sug }}
                         </td>
                     </tr>
                     <tr>
-                        <td>Szugorodas huriranyban</td>
+                        <td>Zsugorodás húrirányban</td>
                         <td class="ta-ce">
                             {{ overlayFaanyag.data.zsug_hur }}
                         </td>
                     </tr>
                     <tr>
-                        <td>Merevseg</td>
+                        <td>Merevség</td>
                         <td class="ta-ce">
                             {{ overlayFaanyag.data.merevseg }}
                         </td>
                     </tr>
                     <tr>
-                        <td>Rostra meroleges kemenyseg</td>
+                        <td>Rostra merőleges keménység</td>
                         <td class="ta-ce">
                             {{ overlayFaanyag.data.kem_r_mer }}
                         </td>
                     </tr>
                     <tr>
-                        <td>Rosttal parhuzamos kemenyseg</td>
+                        <td>Rosttal párhuzamos keménység</td>
                         <td class="ta-ce">
                             {{ overlayFaanyag.data.kem_r_par }}
                         </td>

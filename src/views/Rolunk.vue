@@ -48,12 +48,12 @@ import { Options, Vue } from "vue-class-component";
             devs: [
                 {
                     name: "Zoltán",
-                    desc: `Ennek a Weblapnak én csináltam a HTML részét. Remélem tetszik az oldal, habár Kernel is nagyon sokat tett hozzá hogy úgy nézzen ki az oldal ahogy jelenlegi állapotában látják.`,
+                    desc: `Ez a weboldal egy projektmunka eredménye, melynek témája a barkácsolás. Ennek a Weblapnak én csináltam a HTML részét. Remélem tetszik az oldal, habár Kernel is nagyon sokat tett hozzá hogy úgy nézzen ki az oldal ahogy jelenlegi állapotában látják.`,
                     pfp: "https://satella.xyz/ikt/assets/zoli.png"
                 },
                 {
                     name: "Kernel",
-                    desc: `Kernel egy programozo. Kernel szeret programozni. Kernel a palacsintat is szereti. Kernel egy ember. Valoszinuleg. Kerem tanar ur ne vonjon le ezert egy jegyet.`,
+                    desc: `Kernel egy programozó. Kernel szeret programozni. Kernel a palacsintát is szereti. Kernel egy ember. Valószinűleg. Kérem tanár úr ne vonjon le ezért egy jegyet.`,
                     pfp: "https://satella.xyz/ikt/assets/kernel.jpg",
                 },
             ],
