@@ -21,6 +21,7 @@ import BlogPost from "@/components/BlogPost.vue";
                     content: `
                     Ezt amúgy vue componentekkel csináltam. Menő, ugye?
                 `,
+		},
 		{
                     title: "Csak a pontos szerszám hatékony",
                     author: "Kernel",
@@ -37,6 +38,25 @@ A panelezés során több PCB-t rendeznek olyan alapfelületre, amely a szabván
 A Sheldon Invest feladata az volt, hogy kitalálja azt a technológiát, amellyel képesek ilyen paraméterek ismeretében is gyártani. Az általuk előállított szerszámmal elérhető a 200 microstrain, amely jelentősen a megadott értéken belül található. Ezt a lényeges különbséget annak köszönhetik, hogy a pontosság, a merőlegesség és a síklapúság kritériumait magas szinten képesek teljesíteni. A sorjázás és az élletörés pontos elvégzésével olyan szerszámot tudott biztosítani a Sheldon Invest, amely minden kritériumnak megfelelt.<br>
 
 A vágószerszámok piacán rengeteg alacsonyabb minőségű termék található, ami miatt a gyártó vállalatoknak nehéz megtalálnia a legmegfelelőbb partnert. A Sheldon Invest progresszív filozófiájának köszönhetően a tökéletes szerszámot használhatja ügyfelük, ami jelentős hatékonyságnövekedést eredményez.<br>
+                `,
+                },
+		{
+                    title: "Csak a pontos szerszám hatékony",
+                    author: "Zoli",
+                    date: 1643804409,
+                    content: `Maga a „csináld magad” kifejezés az amatőr tevékenységet, a szakszerű segítség nélküli tevékenységet jelenti. Mint mozgalom az 1950-es években az angliai Arts and Crafts mozgalommal indult. A “csináld magad” magatartást több tényező motiválhatja, így kereskedelmi okai lehetnek (gazdasági előny: olcsóbb; a termék hozzáférhetőségének hiánya; a kapható termék nem megfelelő minősége; a termék testreszabása; egy újszerű, másként el nem érhető, egyedi, funkcionálisan szükséges tárgy létrehozása), vagy az egyéniség erősítése (kivitelezői magatartás elsajátítása; képzettség/alkalmasság kimutatása; közösség keresése; kivételes/egyedülálló egyéni tulajdonságok felmutatása; a kreatív alkotás élményének ezúton történő megélése, mint az önkifejezés egy lehetséges módja). Megfelelő eszközök és környezeti lehetőségek esetén otthon, illetve erre szakosodott műhelyekben végezhető, ahol a közösség támogatása mellett, szervezett programokon, különféle kézművestechnikák el is sajátíthatóak.
+
+Ugyanezt jelenti az angol Do It Yourself kifejezésből származó rövidítés, a DIY is, amely egyre gyakrabban használatos magyar szövegkörnyezetben is.
+
+A „csináld magad" a zenében (rockban, punk mozgalomban) a hagyományos kereskedelmi szemlélettől eltérő művészeti irányzatot is jelöl, mint ilyen lehet radikális, a fennálló viszonyok elutasítása is megtalálható lehet benne. Az amatőr-professzionális individualista ellentét azonban elmosódik az olyan tevékenységekben, mint amilyet pl. az Open-Source valósít meg a hardver és szoftver terén. Hasonló értelemben használatos a kifejezés a pénzügyi befektetésekben is, az egyéni részvényvásárlásokban, ahol a “csináld magad befektetés” tevékenységet jelöli (akár szakember bevonásával).
+
+A gépesített termelés korában a saját gyakorlatra törekvést jelzi a hétköznapi igények terén (ruha, lakás, főzés) vagy az építőipar számos területén, ahol a saját készítésre vonatkozó általános trendet jelenti.
+
+A saját készítésre vonatkozóan nagy ipari háttérrel rendelkező cégek készítenek barkácsszerszámokat és anyagokat, szakmai folyóiratok működnek (Ezermester) és szakmai szövetségek alakulnak.
+
+A barkácstevékenységnek számos megjelenési formája az interneten is megtalálható, pl. bemutató videók (a YouTube-on), leírások, erre specializált, közösségi, vagy szakmai oldalakon (Instructables, ötletmozaik, házilag).
+
+A barkácsolás során a meglévő készülék elemeinek cseréjével történő javítás, használt anyagok/tárgyak újrafelhasználása olyan művelet, ami környezetbarát, ökológiailag hasznos tevékenységnek számít. A beavatkozás célja, hogy az adott berendezés használható állapotba kerüljön.
                 `,
                 },
             ],
