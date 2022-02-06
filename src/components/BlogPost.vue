@@ -53,6 +53,8 @@ div.post {
         }
     }
     div.post\:content {
+        white-space: pre-wrap; 
+        word-wrap: break-word;
     }
 }
 </style>
