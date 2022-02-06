@@ -27,36 +27,51 @@ import BlogPost from "@/components/BlogPost.vue";
                     author: "Kernel",
                     date: 1643804409,
                     content: `
-                    Az elektronika iparágában elengedhetetlen a magas szintű precizitás. A különböző alkatrészek előállításához éppen ezért fontos, hogy minél korszerűbb technológiát alkalmazzanak. A vágószerszámok minősége nagyban hozzájárul a hatékonyság növeléséhez. A nyomtatott áramkörök gyártásához használt, akár törékeny PCB-k pontos elvágására alkalmas szerszám készítésével bízták meg a Sheldon Invest mérnökeit.<br>
+                    Az elektronika iparágában elengedhetetlen a magas szintű precizitás. A különböző alkatrészek előállításához éppen ezért fontos, hogy minél korszerűbb technológiát alkalmazzanak. A vágószerszámok minősége nagyban hozzájárul a hatékonyság növeléséhez. A nyomtatott áramkörök gyártásához használt, akár törékeny PCB-k pontos elvágására alkalmas szerszám készítésével bízták meg a Sheldon Invest mérnökeit.
 
-Az elektronikai paneleket többféle módon készítik. A Sheldon Invest partnerénél olyan metódust alkalmaznak, amelyben 400 mm-szer 400 mm-es, vagy 450 mm-szer 450 mm-es, vagy 300 mm-szer 300 mm-es egységekben beültetik a különböző elektronikai alkatrészeket. A legnagyobb kihívást az jelentette, hogy ezen komponensek egy része kerámiát tartalmaz, ami miatt a hajlításuk nehezen kivitelezhető.<br>
+Az elektronikai paneleket többféle módon készítik. A Sheldon Invest partnerénél olyan metódust alkalmaznak, amelyben 400 mm-szer 400 mm-es, vagy 450 mm-szer 450 mm-es, vagy 300 mm-szer 300 mm-es egységekben beültetik a különböző elektronikai alkatrészeket. A legnagyobb kihívást az jelentette, hogy ezen komponensek egy része kerámiát tartalmaz, ami miatt a hajlításuk nehezen kivitelezhető.
 
-A panelezés során több PCB-t rendeznek olyan alapfelületre, amely a szabványos feldolgozógépbe illeszkedik. A tömbösített megoldással több, azonos vagy akár különböző méretű és formájú táblával dolgoznak. A módszer előnye, hogy lényegesen gyorsabb, valamint kevésbé költséges.<br>
+A panelezés során több PCB-t rendeznek olyan alapfelületre, amely a szabványos feldolgozógépbe illeszkedik. A tömbösített megoldással több, azonos vagy akár különböző méretű és formájú táblával dolgoznak. A módszer előnye, hogy lényegesen gyorsabb, valamint kevésbé költséges.
 
-„Az alkatrészek merevsége miatt olyan megközelítést kellett alkalmaznunk, amelyet más gyártók nem voltak képesek teljesíteni” – részletezi Rigó Zoltán, a Sheldon Invest Kft. SUA menedzsere. „Amikor egy elektronikai panelt 80 mm távolságban megtámasztunk, majd 1 mm-nyit lenyomjuk, az az 1000 microstrain – ami az anyag megnyúlását hivatott kimutatni – csavaróerő. A mai szabályozások a 250-300 microstrain értéket írják elő, ami azt jelenti, hogy 0,2 milliméter lehet az alkatrész hajlítása a de-panelizáció során. Egy 400 mm-szer 400 mm méretű lapon akár száz darab lyukasztótüske is elhelyezkedhet, a vágás során pedig csupán 0,2 mm lehet a hajlása.”<br>
+„Az alkatrészek merevsége miatt olyan megközelítést kellett alkalmaznunk, amelyet más gyártók nem voltak képesek teljesíteni” – részletezi Rigó Zoltán, a Sheldon Invest Kft. SUA menedzsere. „Amikor egy elektronikai panelt 80 mm távolságban megtámasztunk, majd 1 mm-nyit lenyomjuk, az az 1000 microstrain – ami az anyag megnyúlását hivatott kimutatni – csavaróerő. A mai szabályozások a 250-300 microstrain értéket írják elő, ami azt jelenti, hogy 0,2 milliméter lehet az alkatrész hajlítása a de-panelizáció során. Egy 400 mm-szer 400 mm méretű lapon akár száz darab lyukasztótüske is elhelyezkedhet, a vágás során pedig csupán 0,2 mm lehet a hajlása.”
 
-A Sheldon Invest feladata az volt, hogy kitalálja azt a technológiát, amellyel képesek ilyen paraméterek ismeretében is gyártani. Az általuk előállított szerszámmal elérhető a 200 microstrain, amely jelentősen a megadott értéken belül található. Ezt a lényeges különbséget annak köszönhetik, hogy a pontosság, a merőlegesség és a síklapúság kritériumait magas szinten képesek teljesíteni. A sorjázás és az élletörés pontos elvégzésével olyan szerszámot tudott biztosítani a Sheldon Invest, amely minden kritériumnak megfelelt.<br>
+A Sheldon Invest feladata az volt, hogy kitalálja azt a technológiát, amellyel képesek ilyen paraméterek ismeretében is gyártani. Az általuk előállított szerszámmal elérhető a 200 microstrain, amely jelentősen a megadott értéken belül található. Ezt a lényeges különbséget annak köszönhetik, hogy a pontosság, a merőlegesség és a síklapúság kritériumait magas szinten képesek teljesíteni. A sorjázás és az élletörés pontos elvégzésével olyan szerszámot tudott biztosítani a Sheldon Invest, amely minden kritériumnak megfelelt.
 
-A vágószerszámok piacán rengeteg alacsonyabb minőségű termék található, ami miatt a gyártó vállalatoknak nehéz megtalálnia a legmegfelelőbb partnert. A Sheldon Invest progresszív filozófiájának köszönhetően a tökéletes szerszámot használhatja ügyfelük, ami jelentős hatékonyságnövekedést eredményez.<br>
+A vágószerszámok piacán rengeteg alacsonyabb minőségű termék található, ami miatt a gyártó vállalatoknak nehéz megtalálnia a legmegfelelőbb partnert. A Sheldon Invest progresszív filozófiájának köszönhetően a tökéletes szerszámot használhatja ügyfelük, ami jelentős hatékonyságnövekedést eredményez.
                 `,
                 },
 		{
-                    title: "Csak a pontos szerszám hatékony",
+                    title: "Tippek a barkácsoláshoz!",
                     author: "Zoli",
                     date: 1643804409,
-                    content: `Maga a „csináld magad” kifejezés az amatőr tevékenységet, a szakszerű segítség nélküli tevékenységet jelenti. Mint mozgalom az 1950-es években az angliai Arts and Crafts mozgalommal indult. A “csináld magad” magatartást több tényező motiválhatja, így kereskedelmi okai lehetnek (gazdasági előny: olcsóbb; a termék hozzáférhetőségének hiánya; a kapható termék nem megfelelő minősége; a termék testreszabása; egy újszerű, másként el nem érhető, egyedi, funkcionálisan szükséges tárgy létrehozása), vagy az egyéniség erősítése (kivitelezői magatartás elsajátítása; képzettség/alkalmasság kimutatása; közösség keresése; kivételes/egyedülálló egyéni tulajdonságok felmutatása; a kreatív alkotás élményének ezúton történő megélése, mint az önkifejezés egy lehetséges módja). Megfelelő eszközök és környezeti lehetőségek esetén otthon, illetve erre szakosodott műhelyekben végezhető, ahol a közösség támogatása mellett, szervezett programokon, különféle kézművestechnikák el is sajátíthatóak.
+                    content: `Néhány apró barkácsolási tipp nagy mértékben megkönnyítheti és élvezhetőbbé teszi a munkát! Például tudta, hogy egy dugóhúzó segítségével könnyen eltávolíthatja a tipliket a falból? Vagy azt, hogy egy fésűvel megkönnyítheti a szögek beverését nehezen elérhető helyekre? Alább láthatja a összes praktikus barkácsolási tippünk részletes listáját.
 
-Ugyanezt jelenti az angol Do It Yourself kifejezésből származó rövidítés, a DIY is, amely egyre gyakrabban használatos magyar szövegkörnyezetben is.
+                    SZEGEK BEVERÉSE
+                    • Elkerülheti ujjainak kockáztatását a kalapálás során, ha közben hajtűvel vagy gemkapoccsal tartja a szöget.
 
-A „csináld magad" a zenében (rockban, punk mozgalomban) a hagyományos kereskedelmi szemlélettől eltérő művészeti irányzatot is jelöl, mint ilyen lehet radikális, a fennálló viszonyok elutasítása is megtalálható lehet benne. Az amatőr-professzionális individualista ellentét azonban elmosódik az olyan tevékenységekben, mint amilyet pl. az Open-Source valósít meg a hardver és szoftver terén. Hasonló értelemben használatos a kifejezés a pénzügyi befektetésekben is, az egyéni részvényvásárlásokban, ahol a “csináld magad befektetés” tevékenységet jelöli (akár szakember bevonásával).
+                    CSEPEGÉSMENTES FESTÉS
+                    • Az ecset markolatának alsó részét tekerje körbe néhányszor papír ragasztószalaggal, így a festék nem csepeg a kezére, amikor magasban fest.
 
-A gépesített termelés korában a saját gyakorlatra törekvést jelzi a hétköznapi igények terén (ruha, lakás, főzés) vagy az építőipar számos területén, ahol a saját készítésre vonatkozó általános trendet jelenti.
+                    MEGLAZULT KALAPÁCSFEJ
+                    • Tartós megoldás a meglazult kalapács- és baltafejek rögzítésére, ha egy nagy szöget félig bever a nyél felső részén, majd legörbíti azt. Így a fej nem tud lerepülni munka közben.
 
-A saját készítésre vonatkozóan nagy ipari háttérrel rendelkező cégek készítenek barkácsszerszámokat és anyagokat, szakmai folyóiratok működnek (Ezermester) és szakmai szövetségek alakulnak.
+                    OLLÓ ÉLEZÉSE
+                    • Eltompult az ollója? Megélezheti azt, ha néhányszor elvág vele egy darab finom csiszolópapírt. Ez könnyű és gyors módszer!
 
-A barkácstevékenységnek számos megjelenési formája az interneten is megtalálható, pl. bemutató videók (a YouTube-on), leírások, erre specializált, közösségi, vagy szakmai oldalakon (Instructables, ötletmozaik, házilag).
+                    RÉGI FESTÉK ÚJRAHASZNOSÍTÁSA
+                    • Van egy doboz régi festéke, amit fel akar használni? Először távolítsa el a felületéről a megszáradt réteget, és keverje el alaposan a festéket. Ha még mindig vannak hártyák vagy csomók a festékben, szűrje át egy régi nejlonharisnyán, és a festék olyan lesz, mint új korában!
 
-A barkácsolás során a meglévő készülék elemeinek cseréjével történő javítás, használt anyagok/tárgyak újrafelhasználása olyan művelet, ami környezetbarát, ökológiailag hasznos tevékenységnek számít. A beavatkozás célja, hogy az adott berendezés használható állapotba kerüljön.
+                    MÁGNESES CSAVARHÚZÓ
+                    • A mágneses csavarhúzó praktikus megoldás, ha nehezen hozzáférhető helyeken kell csavaroznia. Önállóan is megmágnesezheti egy csavarhúzó fejét, ha néhányszor végighúzza rajta egy mágnes egyik pólusát, azonos irányban. A mágnesezést eltávolíthatja, ha ugyanazt a pólust végighúzza rajta ellenkező irányban.
+
+                    PORGYŰJTŐ LABDA
+                    • Plafont akar fúrni úgy, hogy a por ne menjen a szemébe, vagy a fúrógép belsejébe? Vágjon félbe egy teniszlabdát és húzza a fúróra.
+
+                    PONTOS KÖR FŰRÉSZELÉSE
+                    • Ehhez használjon körvezetőt. Rögzítse egy szöggel a fűrészelni kívánt kör középpontjában. A szög forgástengelyként szolgál.
+
+                    TÚL NAGYRA FÚRT LYUK KIJAVÍTÁSA
+                    • Ha egy lyukat túl nagyra fúrt, például egy bútordarabban, az alábbi módon javíthatja ki: fúrja meg a lyukat 6 vagy 8 mm-esre. Ezután ragasszon egy megfelelő méretű fatiplit a lyukba. Hagyja megszáradni a ragasztót, és véső segítségével hozza a felülettel egy szintbe a fatipli külső végét. Ezután behajthatja a csavart erre a helyre.
                 `,
                 },
             ],
